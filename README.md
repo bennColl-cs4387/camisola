@@ -3,3 +3,4 @@ This repository provides the important information for the Open Source Software 
 
 ## Relevant Links
 - [Syllabus](SYLLABUS.md)
+- [Class Grid](CLASS_GRID.md)
