@@ -6,3 +6,5 @@ I am looking into different _JavaScript_- and _Python_- projects that are beginn
 * [goodfirstissues.com](https://goodfirstissues.com/)
 
 ## Potential Codebases
+1. p5.js
+p5.js is a Javascript library for creating interactive visuals with code in the web browser. It has a highly active community and expansive documentation with visual examples,
