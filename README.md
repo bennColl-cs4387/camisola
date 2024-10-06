@@ -15,4 +15,5 @@ In Week 4, I evaluated different codebases for my potential first fix.
 - [Codebases](https://github.com/bennColl-cs4387/camisola/blob/0fb8dae6f12d157d737ed2ea8af1cc29c957f4c6/Week%204/CODEBASES.md)
 
 ## :computer_mouse: Week 5: Building Code from Souce
-WIP
+In Week 5, I built the p5.js Web Editor from source and implemented a basic modification to the code.
+- [Build Process and Changed Code](https://github.com/bennColl-cs4387/camisola/blob/9ff55ea802150ad8c29743e8d71764b26762f847/Week%205/BUILD.md)
