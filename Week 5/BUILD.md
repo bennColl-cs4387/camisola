@@ -1,6 +1,6 @@
 # Building p5.js Web Editor from Source
 ## Build Process
-Following the [p5.js Contributor guidelines](https://p5js.org/contribute/contributor_guidelines/#quick-get-started-for-developers) and [Development Installation instructions](https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md), I was able to build the p5.js Web Editor from source — albeit with some limited functionalities. The first steps of installing Node.js, forking the p5.js Web Editor repository, and cloning my fork into my local computer were straightforward. Some issues began to arise in installing all the dependencies with `npm install`.
+Following the [p5.js Contributor guidelines](https://p5js.org/contribute/contributor_guidelines/#quick-get-started-for-developers) and [Development Installation instructions](https://github.com/processing/p5.js-web-editor/blob/develop/contributor_docs/installation.md), I was able to build the p5.js Web Editor from source — albeit with some limited functionalities. The first steps of installing Node.js, forking the p5.js Web Editor repository, and cloning [my fork](https://github.com/callybton/p5.js-web-editor) into my local computer were straightforward. Some issues began to arise in installing all the dependencies with `npm install`.
 ```
 npm WARN EBADENGINE Unsupported engine {
 npm WARN EBADENGINE   package: 'execa@8.0.1',
