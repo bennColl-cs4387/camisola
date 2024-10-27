@@ -18,6 +18,6 @@ In Week 4, I evaluated different codebases for my potential first fix.
 In Week 5, I built the p5.js Web Editor from source and implemented a basic modification to the code.
 - [Build Process and Changed Code](https://github.com/bennColl-cs4387/camisola/blob/9ff55ea802150ad8c29743e8d71764b26762f847/Week%205/BUILD.md)
 
-## ✍ Week 6 + 7: Picking Groups + First (Individual) Fix Essay
+## ✍ Week 6: Picking Groups + First (Individual) Fix Essay
 In Weeks 6 and 7, I began to plan more thoroughly for my first group and individual fixes. I met the groupmates I would be working with for the group fix, and wrote an essay about my own individual fix.
 - [First (Individual) Fix Essay](https://github.com/bennColl-cs4387/camisola/blob/a11a30aeb40159650c676a101b41f974d88ea8c2/Week%206/ESSAY_FIRSTISSUE.md)
