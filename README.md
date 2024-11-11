@@ -22,12 +22,14 @@ In Week 5, I built the p5.js Web Editor from source and implemented a basic modi
 In Weeks 6 and 7, I began to plan more thoroughly for my first group and individual fixes. I met the groupmates I would be working with for the group fix, and wrote an essay about my own individual fix.
 - [First (Individual) Fix Essay](https://github.com/bennColl-cs4387/camisola/blob/a11a30aeb40159650c676a101b41f974d88ea8c2/Week%206/ESSAY_FIRSTISSUE.md)
 
-## 👥 Week 8: Group Fix Progress
-In Week 8, my groupmate Nath and I picked an issue and began working on our fix.
+## 👥 Weeks 8-9: Group Fix
+In Week 8, my groupmate Nath and I picked an issue and began working on our group fix.
 - [Group Fix Progress Report](https://github.com/bennColl-cs4387/camisola/blob/main/Week%208/PROGRESS_REPEORT.md)
 
-## 👥 Week 9: Group Fix
-In Week 9, Nath and I finalized our code for our group fix then reflected on the experience.
+In Week 9, we finalized our code for our code then reflected on the experience.
 - [Group Fix Report](https://docs.google.com/document/d/197LLvZXauJRpocG0KSUylJNpRxrUTCShBL1Q2TjmeAY/edit?usp=sharing)
 - [Forked Repository](https://github.com/callybton/p5.js-website)
 
+## 👤 Week 10+: Solo Fix 
+In Week 10, I began working on and documenting my solo fixes.
+- [Solo Fix Progress Report](https://github.com/bennColl-cs4387/camisola/blob/72bf1264fee1265e2404cb5458450d51e8c4e003/Week%2010/SOLO_PROGRESS1.md)
