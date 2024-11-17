@@ -31,5 +31,6 @@ In Week 9, we finalized our code for our code then reflected on the experience.
 - [Forked Repository](https://github.com/callybton/p5.js-website)
 
 ## 👤 Week 10+: Solo Fix 
-In Week 10, I began working on and documenting my solo fixes.
-- [Solo Fix Progress Report](https://github.com/bennColl-cs4387/camisola/blob/72bf1264fee1265e2404cb5458450d51e8c4e003/Week%2010/SOLO_PROGRESS1.md)
+Beginning Week 10, I began working on and documenting my solo fixes.
+- [Solo Fix Progress Report 1](https://github.com/bennColl-cs4387/camisola/blob/72bf1264fee1265e2404cb5458450d51e8c4e003/Week%2010/SOLO_PROGRESS1.md)
+- [Solo Fix Progress Report 2](https://github.com/bennColl-cs4387/camisola/blob/c16e746bb98c00983ad6b7fcbd80b4f5d403fe35/Solo%20Fixes/SOLO_PROGRESS2.md)
