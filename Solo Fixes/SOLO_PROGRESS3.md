@@ -7,7 +7,7 @@
 - **Discussion**: Others have shared their fix attempts, but nothing has been merged yet; the project maintainers have been looking for the most appropriate fix user experience-wise.
 
 ### Progress
-- **Code + Next Steps**:
+- **Code + Next Steps**: I had to implement these changes to `client/modules/IDE/components/Editor/index.jsx` to have it reflected on the page when refreshing. I anticipate that I should be finished with this by next week. 
 ```
 componentWillUpdate(nextProps) {
     // check if files have changed
