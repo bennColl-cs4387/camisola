@@ -14,3 +14,5 @@
     width: 100%;
 }
 ```
+![Screenshot 1 of Fix](https://github.com/bennColl-cs4387/camisola/blob/69ce5b696d0fb33fc2cb794aa84d9e15e0e5e3bf/Solo%20Fixes/Kestra%20-%20Issue%206180%20Fix%201.png)
+![Screenshot 2 of Fix](https://github.com/bennColl-cs4387/camisola/blob/69ce5b696d0fb33fc2cb794aa84d9e15e0e5e3bf/Solo%20Fixes/Kestra%20-%20Issue%206180%20Fix%202.png)
