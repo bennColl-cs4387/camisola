@@ -13,3 +13,4 @@ state.files.forEach((e) => {
       }
     })
 ```
+![Screenshot of Fix](https://github.com/bennColl-cs4387/camisola/blob/1556ea12994f09058fbf5968acde4bb7ef341535/Solo%20Fixes/p5.JS%20Web%20Editor%20-%20Issue%201852%20Fix.png)
