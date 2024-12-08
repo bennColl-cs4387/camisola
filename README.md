@@ -4,8 +4,8 @@ Welcome to my repo! I'm Cally Amisola, a Senior at Bennington College (as of the
 
 ## 👤 List of Solo Fixes
 From Week 10 onwards, I began working on some fixes independently.
-- _p5.JS Web Editor_'s Issue with [Illegible Text on Dark/High Contrast Mode](https://github.com/bennColl-cs4387/camisola/blob/8ea8852b46559e46e542bc4be51ac445e68b2c72/Solo%20Fixes/SOLO_FIX1.md)
-- _Kestra_'s Issue with [Unnecessary Background Behind Text](https://github.com/bennColl-cs4387/camisola/blob/8ea8852b46559e46e542bc4be51ac445e68b2c72/Solo%20Fixes/SOLO_FIX2.md)
+- _p5.JS Web Editor_'s Issue with [Illegible Text on Dark/High Contrast Mode](https://github.com/bennColl-cs4387/camisola/blob/055d9183834e9aad2b1b8c235eb3d5d779e124c9/Solo%20Fixes/SOLO_FIX1.md)
+- _Kestra_'s Issue with [Unnecessary Background Behind Text](https://github.com/bennColl-cs4387/camisola/blob/055d9183834e9aad2b1b8c235eb3d5d779e124c9/Solo%20Fixes/SOLO_FIX2.md)
 
 ## 👥 Group Fix
 From Weeks 7-9, Nath Freires and I worked collaboratively on _p5.JS Website_ [Issue 516](https://github.com/processing/p5.js-website/issues/516) concerning the layout responsiveness, wherein certain text and/or classes are cut off when the website is viewed on screens with smaller width. Nath and I's code for this fix can be found in our shared [forked repository](https://github.com/callybton/p5.js-website), which is described in our [report](https://docs.google.com/document/d/197LLvZXauJRpocG0KSUylJNpRxrUTCShBL1Q2TjmeAY/edit?tab=t.0). Doing this Group Fix not only gave me my first insights into building from source and reading & understanding other people's codebase, but also on how collaborative programming enables faster debugging and exploring multiple versatile solutions.
